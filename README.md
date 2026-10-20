@@ -46,7 +46,7 @@ All required libraries are already available in Colab.
 ### Option 2: Run locally
 
 ```bash
-git clone https://github.com/sanesh2310-png/network-intrusion-detector.git
+git clone https://github.com/sanesh2310-png/network-intrusion-detector
 cd network-intrusion-detector
 
 python -m venv venv
