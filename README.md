@@ -1,6 +1,6 @@
 # Network Intrusion Detection using Machine Learning
 
-**Author:** Deeksha
+
 **Program:** IBM SkillsBuild Cyber Security Bootcamp 2026 (BharatCares)
 
 ## Project Description
